@@ -3,5 +3,4 @@ Project ini dibuat untuk bisa mengklasifikasikan cuaca menggunakan metode naive 
 
 Kelompok 6
 
-Nama    : Gebrina Rizki
-Nim     : 2205903040087
+Gebrina Rizki (2205903040087)
